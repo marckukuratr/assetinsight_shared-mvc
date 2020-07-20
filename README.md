@@ -1,0 +1,1 @@
+# assetinsight_shared-mvc
