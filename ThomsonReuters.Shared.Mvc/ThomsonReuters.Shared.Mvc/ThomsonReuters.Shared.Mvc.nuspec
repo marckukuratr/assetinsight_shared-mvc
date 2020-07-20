@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>ThomsonReuters.Shared.Mvc</id>
+		<version>1.0.1</version>
+		<title>ThomsonReuters.Shared.Mvc</title>
+		<authors>Asset Insight Development</authors>
+		<owners>Asset Insight Development</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<projectUrl>https://github.com/tr/assetinsight_shared-mvc</projectUrl>
+		<description>ThomsonReuters.Shared.Mvc</description>
+		<releaseNotes></releaseNotes>
+		<copyright>Copyright 2020</copyright>
+		<tags>aiid200367</tags>
+		<dependencies>
+			<group targetFramework=".NETFramework4.6.1" />
+		</dependencies>
+	</metadata>
+</package>
